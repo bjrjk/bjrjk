@@ -1,8 +1,8 @@
 ### 👋 Here is Jack Ren
 
-An undergraduate CS student in Beijing University of Technology(BJUT) .
+An undergraduate CS student at Beijing University of Technology(BJUT) .
 
-Interested in various fields, include but not limited to Software Engineering, Network and Information Security, Computer-Aided Design of Digital Circuit, etc.
+Interested in various fields, including but not limited to Software Engineering, Network and Information Security, Computer-Aided Design of Digital Circuit, etc.
 
 🏠Blog (Chinese): [https://renjikai.com](https://renjikai.com)
 
