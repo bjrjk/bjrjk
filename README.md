@@ -8,4 +8,6 @@ Interested in various fields, include but not limited to Software Engineering, N
 
 📧Email: Look at Github Profile
 
+ℹ️Linkin: [https://www.linkedin.com/in/renjikai](https://www.linkedin.com/in/renjikai)
+
 📖Resume (Chinese): [https://rjk.pub](https://rjk.pub)
